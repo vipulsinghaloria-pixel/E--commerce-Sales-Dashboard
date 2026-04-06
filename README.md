@@ -12,3 +12,16 @@
 # DASHBOARD SS
 <img width="1124" height="633" alt="image" src="https://github.com/user-attachments/assets/8ec3f9df-1a82-48d9-bc33-014efbe97207" />
 
+
+
+
+
+
+
+
+
+
+
+
+
+Note: - Data is taken from Kagel.
